@@ -1,4 +1,4 @@
-# t8ne Portfolio Website
+# t2ne Portfolio Website
 
 This is the source code for **t8ne**'s online portfolio, designed to showcase skills, interests, and contact information interactively and dynamically. Built with `LitElement`, this site features a responsive interface, smooth transitions, and a typing animation on the homepage.
 
@@ -38,5 +38,5 @@ The main component is defined in `index.js`, with the following code flow:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/t8ne/t8ne.github.io.git
-   cd t8ne.github.io
+   git clone https://github.com/t2ne/t2ne.github.io.git
+   cd t2ne.github.io
